@@ -1,4 +1,4 @@
-**Senior Software Engineer | Systems Modernizer | AI-Accelerated Developer**
+**Senior Software Engineer | Systems Modernizer
 
 - 🛠️ **Expertise:** PHP 8.4, JavaScript (ES6+), Solr, and Ansible.
 - 🚀 **Current Focus:** Supercharging legacy migrations and UI engineering using AI-leveraged workflows (Cursor/Claude).
