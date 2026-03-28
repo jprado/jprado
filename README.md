@@ -1,1 +1,1 @@
-Pointing AI at code and seeing who blinks first.
+Pointing AI at things and seeing who blinks first.
