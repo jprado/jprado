@@ -1,3 +1,1 @@
-# Hugo Prado
-
 Building, un-building, weird experiments, whatever catches my attention. Most of the fun is pointing AI at code and seeing who blinks first.
